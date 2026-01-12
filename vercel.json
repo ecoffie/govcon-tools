@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/recompete", "destination": "/recompete.html" },
+    { "source": "/prime-lookup", "destination": "/prime-lookup.html" }
+  ]
+}
